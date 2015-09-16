@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:47.305843
+#+DATE: 2015-08-30 20:02:49.339462
 #+TITLE: 大寶積經論
 #+PROPERTY: CBETA_ID T26n1523
 #+PROPERTY: ID KR6f0102
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1523
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6f0102_T_002-0212a> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大寶積經論》卷第二¶
+《大寶積經論》卷第二¶
 ¶
 後魏北印度三藏菩提流支譯¶
 
@@ -142,8 +141,7 @@
 然彼生時無所從來。滅亦無迹。及無所至。於¶
 中所有尚希用求者。是名無我忍。問曰。若無¶
 我忍能作無眾生分別。及令菩薩皆眾生益¶
-者。何故為說無我忍事。答曰。於諸眾生所。¶
-能作利益義故。說菩薩無我忍者。唯為利益¶
+者。何故為說無我忍事。答曰。於諸眾生所。能作利益義故。說菩薩無我忍者。唯為利益¶
 眾生故。以彼無我忍故。菩薩伏諸煩惱。及觀¶
 修眾生相故。知諸行緣假無分別事已。設使¶
 有眾生患。及世間行還來惱菩薩者。以善知¶
