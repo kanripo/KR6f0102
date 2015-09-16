@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大寶積經論
+#+DATE: 2015-08-30 20:02:47.616846
+#+PROPERTY: JUAN 0
